@@ -1,4 +1,25 @@
-# React + TypeScript + Vite
+# Booksly Overview
+
+### Technologies used:
+- React + TS
+- Redux
+- React Router Dom
+- Bootstrap
+- API: openlibrary.org
+
+### Functionality
+
+- Home - gets most popular books of the week
+- Random 100 - gets 100 random books in rating order
+- Bookmarked - each book could get a status (plan/reading/finished etc), which is saved in local storage. This page shows them
+- NotFoundTest - just in case
+- Genre - choose your genre and fetch the books
+- Search - dynamically search books based on input
+- Pagination on all pages for better experience
+- Maybe there is more, but at a time I forgot :/
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
